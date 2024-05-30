@@ -11,4 +11,4 @@ export default function HomeScreen({ navigation }) {
 }
 
 
-Bus Driver FrontendReact Native-
+Bus Owner Frontend React-
